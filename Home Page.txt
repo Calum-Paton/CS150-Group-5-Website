@@ -1,0 +1,5 @@
+Title: Dish It Out
+Description: The splash page for the Glasgow food review website Dish It Out.
+Features: banner, logo, title, featured restaurants, latest reviews, links to other pages
+Links: category page, top ten reviews page, search page
+
