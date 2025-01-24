@@ -1,0 +1,4 @@
+Title: Search
+Description: Search page for the Glasgow food review website Dish It Out.
+Features: Banner, Logo, Search bar, popular reviews, Links to other pages
+Links: Homepage, restaurant websites, category page
