@@ -1,0 +1,4 @@
+Title: Dish it Out Reviews
+Description: Review site page on top Glasgow Restaurants where users can find good recommendations
+Features: Users are able to view Dish it Out food critics reviews with each review containing a rating, comment and optional photos.
+Links: Home Page, Search Page
